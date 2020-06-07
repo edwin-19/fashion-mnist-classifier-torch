@@ -1,0 +1,4 @@
+Please download the fashion mnist dataset(https://github.com/zalandoresearch/fashion-mnist) and put as such:
+train-images-idx3-ubyte
+train-labels-idx1-ubyte
+...
